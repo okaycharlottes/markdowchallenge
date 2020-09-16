@@ -23,7 +23,7 @@ _Ne laissez personne venir à vous et repartir moins heureux_
 > Ne jamais faire un saute mouton dans une salle de bain 
 
 
-<< [previous](https://github.com/okaycharlottes/markdowchallenge/blob/master/README.md) || Charlotte Buquet || [next](https://github.com/okaycharlottes/markdowchallenge/blob/master/README.md) 
+<< [previous](https://github.com/celinearn/markdown-challenge/blob/master/README.md) || Charlotte Buquet || [next](https://github.com/Charlene-Bx/mardown-challenge/blob/master/README.md) 
 
 
 
